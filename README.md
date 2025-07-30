@@ -40,7 +40,7 @@ to ensure robust software quality.
 
 ---
 
-## 🛠 Technical Skills
+## Technical Skills
 
 - **Programming:** Java (basic proficiency for automation scripting)  
 - **SDLC & STLC:** Deep understanding of software development and testing lifecycles  
