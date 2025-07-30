@@ -57,4 +57,35 @@ to ensure robust software quality.
 - **Analytical Thinking:** Adept at dissecting features and designing efficient test automation frameworks  
 - **Communication:** Clear, concise bug reporting, documentation, and effective collaboration with development teams  
 - **Adaptability:** Quick to learn new tools, frameworks, and adapt to evolving project needs  
-- **Proactivity:** Committed to improving testing processes, automation scripts, and pursuing self-education  
+- **Proactivity:** Committed to improving testing processes, automation scripts, and pursuing self-education
+
+## Projects
+
+---
+
+### Ticket Service (Web Application)
+
+**Description:**  
+A ticket booking platform for events, allowing users to search, book, and manage orders.
+
+---
+
+**Responsibilities:**
+
+- Conducted UI testing to validate functionality and usability across browsers.  
+- Validated REST API endpoints using Postman (e.g., response codes, JSON payloads).  
+- Created comprehensive test documentation: Test Plans, Test Cases, and Bug Reports with screenshots.
+
+---
+
+**Tools & Technologies:**  
+Postman, Chrome DevTools, Jira, Google Sheets/Docs, Git/GitHub.
+
+---
+
+**Achievements:**
+
+- Identified and documented 20+ critical UI and API bugs, improving application stability.  
+- Developed a Software Test Plan adopted as a template for future projects.  
+- Streamlined API testing with reusable Postman collections, reducing testing time by 25%.
+
