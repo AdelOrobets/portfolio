@@ -95,7 +95,7 @@ Postman, Chrome DevTools, Jira, Google Sheets/Docs, Git/GitHub.
 ### PhoneBook (Web & Mobile Application)
 
 **Description:**  
-A responsive contact management system for web and Android, with user registration, login, and contact management features.
+A responsive contact management system for web and mobile application, with user registration, login, and contact management features.
 
 ---
 
