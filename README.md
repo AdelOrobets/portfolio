@@ -34,7 +34,7 @@ to ensure robust software quality.
 - **Test Development:** Writing automated UI and API tests for web and mobile (Android) applications using the **Page Object Model** for maintainability  
 - **Mobile Automation:** Configuring and testing with Appium Server and Appium Inspector on Android Emulator  
 - **API Automation:** Automating REST API tests with Rest Assured for HTTP requests and validations across web and mobile platforms  
-- **Cross-Browser Testing:** Automating tests across Chrome, Firefox, and Safari using Selenium WebDriver  
+- **Cross-Browser Testing:** Automating tests across Chrome, Firefox and Microsoft Edge using Selenium WebDriver  
 - **Build Management:** Using Gradle for dependency management and build automation  
 - **Reporting:** Generating detailed test reports with Allure Reports for clear result visualization  
 
