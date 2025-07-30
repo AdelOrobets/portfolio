@@ -72,7 +72,8 @@ A ticket booking platform for events, allowing users to search, book, and manage
 
 **Responsibilities:**
 
-- Conducted UI testing to validate functionality and usability across browsers.  
+- Analyzed requirements and developed test scenarios for web interface.
+- Conducted UI testing to validate functionality and usability across browsers. 
 - Validated REST API endpoints using Postman (e.g., response codes, JSON payloads).  
 - Created comprehensive test documentation: Test Plans, Test Cases, and Bug Reports with screenshots.
 
@@ -88,4 +89,33 @@ Postman, Chrome DevTools, Jira, Google Sheets/Docs, Git/GitHub.
 - Identified and documented 20+ critical UI and API bugs, improving application stability.  
 - Developed a Software Test Plan adopted as a template for future projects.  
 - Streamlined API testing with reusable Postman collections, reducing testing time by 25%.
+
+---
+
+### PhoneBook (Web & Mobile Application)
+
+**Description:**  
+A responsive contact management system for web and Android, with user registration, login, and contact management features.
+
+---
+
+**Responsibilities:**
+
+- Developed automated UI tests for web using Selenium WebDriver and TestNG with Page Object Model.  
+- Automated mobile UI tests for Android using Appium Server and Appium Inspector in IntelliJ IDEA.  
+- Automated API tests for key endpoints using Rest Assured.  
+- Generated Allure Reports for test execution results and integrated tests with Jenkins.
+
+---
+
+**Tools & Technologies:**  
+Java, Selenium WebDriver, TestNG, Appium, Rest Assured, Allure Reports, Jenkins, Gradle, Android Emulator, IntelliJ IDEA, Jira, Git/GitHub.
+
+---
+
+**Achievements:**
+
+- Automated 80% of critical user flows, reducing manual testing time by 30%.  
+- Identified and resolved 15+ mobile-specific bugs through automated tests.  
+- Improved test reporting with Allure Reports, enhancing team visibility into test outcomes.
 
