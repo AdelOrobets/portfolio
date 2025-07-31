@@ -11,7 +11,9 @@ Experienced in automation testing with Java, utilizing Selenium WebDriver and Te
 UI automation, Appium for mobile UI automation, and Rest Assured for REST API automation across 
 both web and mobile platforms, all designed with the Page Object Model for maintainability. 
 Adept at integrating tests into CI/CD pipelines with Jenkins, managing builds with Gradle, and 
-generating detailed Allure Reports for clear test result visualization. Passionate about 
+generating detailed Allure Reports for clear test result visualization. 
+
+Passionate about 
 optimizing testing processes, delivering seamless user experiences, and continuously advancing skills 
 to ensure robust software quality.
 
