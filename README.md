@@ -15,30 +15,30 @@ generating detailed Allure Reports for clear test result visualization.
 
 Passionate about 
 optimizing testing processes, delivering seamless user experiences, and continuously advancing skills 
-to ensure robust software quality.
+to ensure robust software quality
 
 ## Skills
 
 ### Manual Testing
 
-- **Web & Mobile Testing:** Expertise in validating UI elements and functionality for web and Android applications, including cross-browser testing (Chrome, Firefox, Microsoft Edge).
-- **Test Documentation:** Crafting detailed Test Plans, Test Cases, Checklists, and Bug Reports.  
-- **Requirements Analysis:** Breaking down features into testable components.  
-- **API Testing:** Proficient in Postman and Swagger for validating HTTP requests, JSON payloads, and API collections.  
-- **DevTools:** Skilled in Chrome DevTools for analyzing HTML, CSS, XPath, network logs, and performance.  
-- **Bug Tracking:** Experienced with Jira for issue tracking and test management.  
+- **Web & Mobile Testing:** Expertise in validating UI elements and functionality for web and Android applications, including cross-browser testing (Chrome, Firefox, Microsoft Edge)
+- **Test Documentation:** Crafting detailed Test Plans, Test Cases, Checklists, and Bug Reports
+- **Requirements Analysis:** Breaking down features into testable components 
+- **API Testing:** Proficient in Postman and Swagger for validating HTTP requests, JSON payloads, and API collections
+- **DevTools:** Skilled in Chrome DevTools for analyzing HTML, CSS, XPath, network logs, and performance 
+- **Bug Tracking:** Experienced with Jira for issue tracking and test management
 
 ---
 
 ### Automation Testing
 
-- **Tools:** Selenium WebDriver, TestNG, Appium, Rest Assured, Allure Reports, Jenkins (CI/CD), Gradle  
-- **Test Development:** Writing automated UI and API tests for web and mobile (Android) applications using the **Page Object Model** for maintainability  
-- **Mobile Automation:** Configuring and testing with Appium Server and Appium Inspector on Android Emulator  
-- **API Automation:** Automating REST API tests with Rest Assured for HTTP requests and validations across web and mobile platforms  
-- **Cross-Browser Testing:** Automating tests across Chrome, Firefox and Microsoft Edge using Selenium WebDriver  
-- **Build Management:** Using Gradle for dependency management and build automation  
-- **Reporting:** Generating detailed test reports with Allure Reports for clear result visualization  
+- **Tools:** Selenium WebDriver, TestNG, Appium, Rest Assured, Allure Reports, Jenkins (CI/CD), Gradle
+- **Test Development:** Developing automated UI and API tests for web and mobile (Android) applications using the Page Object Model to ensure maintainability and scalability
+- **Mobile Automation:** Setting up and executing tests with Appium Server and Appium Inspector on Android Emulator
+- **API Automation:** Automating REST API testing with Rest Assured, validating HTTP requests and responses across web and mobile platforms 
+- **Cross-Browser Testing:** Executing automated tests on Chrome, Firefox, and Microsoft Edge using Selenium WebDriver 
+- **Build Management:** Managing dependencies and automating builds using Gradle 
+- **Reporting:** Creating detailed and informative Allure Reports for clear and structured test result visualization 
 
 ---
 
