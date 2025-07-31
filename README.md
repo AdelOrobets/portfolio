@@ -44,12 +44,12 @@ to ensure robust software quality
 
 ## Technical Skills
 
-- **Programming:** Java (basic proficiency for automation scripting)  
-- **SDLC & STLC:** Deep understanding of software development and testing lifecycles  
-- **Agile Methodologies:** Proficient in Scrum and Kanban workflows  
-- **SQL:** Basic querying for test data validation  
-- **Version Control:** Experienced with Git and GitHub  
-- **IDE:** IntelliJ IDEA for automation scripting and test development  
+- **Programming:** Java — basic proficiency for writing automation scripts and test logic
+- **SDLC & STLC:** Solid understanding of software development and testing life cycles 
+- **Agile Methodologies:** Practical experience with Scrum and Kanban workflows
+- **SQL:** Basic skills in writing queries for data validation during testing
+- **Version Control:** Hands-on experience with Git and GitHub for source code and test management
+- **IDE:** Using IntelliJ IDEA for developing and maintaining automated tests 
 
 ---
 
