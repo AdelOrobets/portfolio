@@ -55,11 +55,11 @@ to ensure robust software quality
 
 ## Soft Skills
 
-- **Attention to Detail:** Meticulous in identifying bugs, verifying requirements, and ensuring comprehensive test coverage  
-- **Analytical Thinking:** Adept at dissecting features and designing efficient test automation frameworks  
-- **Communication:** Clear, concise bug reporting, documentation, and effective collaboration with development teams  
-- **Adaptability:** Quick to learn new tools, frameworks, and adapt to evolving project needs  
-- **Proactivity:** Committed to improving testing processes, automation scripts, and pursuing self-education
+- **Attention to Detail:** Meticulous in identifying bugs, validating requirements, and ensuring thorough test coverage
+- **Analytical Thinking:** Skilled at breaking down complex features and designing efficient test cases and automation structures 
+- **Communication:** Clear in bug reporting and documentation; effective in collaboration with developers and QA teams
+- **Adaptability:** Quick to learn new tools and frameworks, and flexible in responding to changing project requirements 
+- **Proactivity:** Continuously seeking to improve testing processes, automation scripts, and expand technical knowledge through self-learning
 
 ## Projects
 
