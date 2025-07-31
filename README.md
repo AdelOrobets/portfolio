@@ -44,7 +44,7 @@ to ensure robust software quality
 
 ## Technical Skills
 
-- **Programming:** Java — basic proficiency for writing automation scripts and test logic
+- **Programming:** Java basic proficiency for writing automation scripts and test logic
 - **SDLC & STLC:** Solid understanding of software development and testing life cycles 
 - **Agile Methodologies:** Practical experience with Scrum and Kanban workflows
 - **SQL:** Basic skills in writing queries for data validation during testing
