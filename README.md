@@ -21,7 +21,7 @@ to ensure robust software quality.
 
 ### Manual Testing
 
-- **Web & Mobile Testing:** Expertise in validating UI/UX for web and Android applications, including cross-browser testing (Chrome, Firefox, Microsoft Edge).  
+- **Web & Mobile Testing:** Expertise in validating UI elements and functionality for web and Android applications, including cross-browser testing (Chrome, Firefox, Microsoft Edge).
 - **Test Documentation:** Crafting detailed Test Plans, Test Cases, Checklists, and Bug Reports.  
 - **Requirements Analysis:** Breaking down features into testable components.  
 - **API Testing:** Proficient in Postman and Swagger for validating HTTP requests, JSON payloads, and API collections.  
