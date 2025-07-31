@@ -76,8 +76,9 @@ A ticket booking platform for events, allowing users to search, book, and manage
 
 - Analyzed requirements and developed test scenarios for web interface.
 - Conducted UI testing to validate functionality and usability across browsers. 
-- Validated REST API endpoints using Postman (e.g., response codes, JSON payloads).  
-- Created comprehensive test documentation: Test Plans, Test Cases, and Bug Reports with screenshots.
+- Validated REST API endpoints using Postman (response codes, JSON payloads).  
+- Created comprehensive test documentation: [Test Plans](https://docs.google.com/spreadsheets/d/1K7KlIUXoN2IewV5-ABJuDsxgoe0CfIZk/edit?usp=sharing&ouid=102737440051246418544&rtpof=true&sd=true),
+[Test Cases](https://docs.google.com/spreadsheets/d/1tRmffFVwMkwzR69gfZ2MNPRu9wdIMGta/edit?usp=drive_link&ouid=102737440051246418544&rtpof=true&sd=true), and Bug Reports with screenshots.
 
 ---
 
