@@ -5,7 +5,7 @@
 ### Summary
 Junior QA Engineer with expertise in manual and automation testing for web and mobile (Android) applications. Proficient in [SDLC, STLC](https://github.com/AdelOrobets/portfolio/blob/main/SDLC_and_STLC.md)
 and [Agile methodologies](https://github.com/AdelOrobets/portfolio/blob/main/Agile%20Methodologies%20(Scrum%20%26%20Kanban).md), with hands-on experience in creating comprehensive test documentation, identifying bugs and ensuring high-quality 
-software. Skilled in manual UI/UX validation and cross-browser testing using Chrome DevTools, Postman, and Swagger for API testing. 
+software. Skilled in manual UI/UX validation and cross-browser testing using DevTools, Postman, and Swagger for API testing. 
 
 Experienced in automation testing with Java, utilizing Selenium WebDriver and TestNG for web 
 UI automation, Appium for mobile UI automation, and Rest Assured for REST API automation across 
