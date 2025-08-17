@@ -28,7 +28,6 @@ to ensure robust software quality
 - **DevTools:** Skilled in Chrome DevTools for analyzing HTML, CSS, XPath, network logs, and performance 
 - **Bug Tracking:** Experienced with Jira for issue tracking and test management
 
----
 
 ### Automation Testing
 
@@ -40,7 +39,6 @@ to ensure robust software quality
 - **Build Management:** Managing dependencies and automating builds using Gradle 
 - **Reporting:** Creating detailed and informative Allure Reports for clear and structured test result visualization 
 
----
 
 ## Technical Skills
 
@@ -51,7 +49,6 @@ to ensure robust software quality
 - **Version Control:** Hands-on experience with Git and GitHub for source code and test management
 - **IDE:** Using IntelliJ IDEA for developing and maintaining automated tests 
 
----
 
 ## Soft Skills
 
@@ -63,14 +60,12 @@ to ensure robust software quality
 
 ## Projects
 
----
 
 ### Ticket Service (Web Application)
 
 **Description:**  
 A ticket booking platform for events, allowing users to search, book, and manage orders.
 
----
 
 **Responsibilities:**
 
@@ -80,12 +75,10 @@ A ticket booking platform for events, allowing users to search, book, and manage
 - Created comprehensive test documentation: [Test Plans](https://docs.google.com/spreadsheets/d/1K7KlIUXoN2IewV5-ABJuDsxgoe0CfIZk/edit?usp=sharing&ouid=102737440051246418544&rtpof=true&sd=true),
 [Test Cases](https://docs.google.com/spreadsheets/d/1tRmffFVwMkwzR69gfZ2MNPRu9wdIMGta/edit?usp=drive_link&ouid=102737440051246418544&rtpof=true&sd=true), and [Bug Reports](https://docs.google.com/spreadsheets/d/180f4rPPsLncp5BGl_LVr1teRN3xltC2Z/edit?usp=sharing&ouid=102737440051246418544&rtpof=true&sd=true) with screenshots.
 
----
 
 **Tools & Technologies:**  
 Postman, Chrome DevTools, Jira, Google Sheets/Docs, Git/GitHub.
 
----
 
 **Achievements:**
 
@@ -93,14 +86,12 @@ Postman, Chrome DevTools, Jira, Google Sheets/Docs, Git/GitHub.
 - Developed a Software Test Plan adopted as a template for future projects.  
 - Streamlined API testing with reusable Postman collections, reducing testing time by 25%.
 
----
 
 ### PhoneBook (Web & Mobile Application - educational project)
 
 **Description:**  
 A responsive contact management system for web and mobile application, with user registration, login, and contact management features.
 
----
 
 **Responsibilities:**
 
@@ -109,12 +100,10 @@ A responsive contact management system for web and mobile application, with user
 - Automated [API tests](https://github.com/AdelOrobets/PhoneBook_v1/tree/master/src/test/java/api_tests) for key endpoints using Rest Assured.  
 - Generated Allure Reports for test execution results and integrated tests with Jenkins.
 
----
 
 **Tools & Technologies:**  
 Java, Selenium WebDriver, TestNG, Appium, Rest Assured, Allure Reports, Jenkins, Gradle, Android Emulator, IntelliJ IDEA, Jira, Git/GitHub.
 
----
 
 **Achievements:**
 
