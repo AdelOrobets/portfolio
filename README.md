@@ -104,7 +104,7 @@ A responsive contact management system for web and mobile application, with user
 
 **Responsibilities:**
 
-- Developed automated UI tests for web using Selenium WebDriver and TestNG with Page Object Model.  
+- Developed [automated UI tests](https://github.com/AdelOrobets/PhoneBook_v1/tree/master/src/test/java/ui_tests) for web using Selenium WebDriver and TestNG with Page Object Model.  
 - Automated mobile UI tests for Android using Appium Server and Appium Inspector in IntelliJ IDEA.  
 - Automated API tests for key endpoints using Rest Assured.  
 - Generated Allure Reports for test execution results and integrated tests with Jenkins.
