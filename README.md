@@ -61,7 +61,8 @@ to ensure robust software quality
 ## Projects
 
 
-### Ticket Service (Web App)
+
+### Ticket booking (Web App)
 
 **Description:** 
 A Ticket booking platform for events, allowing users to search, book, and manage orders.
@@ -82,6 +83,7 @@ Postman, Chrome DevTools, Jira, Google Sheets/Docs, Git/GitHub
 Identified and documented 20+ critical UI and API bugs, developed a Software Test 
 Plan used as a template for future projects, streamlined API testing with reusable Postman 
 collections, reducing testing time by 25%
+
 
 
 ### PhoneBook (Web & Mobile Application - educational project)
