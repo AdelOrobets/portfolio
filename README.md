@@ -61,30 +61,27 @@ to ensure robust software quality
 ## Projects
 
 
-### Ticket Service (Web Application)
+### Ticket Service (Web App)
 
-**Description:**  
-A ticket booking platform for events, allowing users to search, book, and manage orders.
+**Description:** 
+A Ticket booking platform for events, allowing users to search, book, and manage orders.
 
-
-**Responsibilities:**
-
-- Analyzed requirements and developed test scenarios for web interface.
-- Conducted UI testing to validate functionality and usability across browsers. 
-- Validated REST API endpoints using Postman (response codes, JSON payloads).  
-- Created comprehensive test documentation: [Test Plans](https://docs.google.com/spreadsheets/d/1K7KlIUXoN2IewV5-ABJuDsxgoe0CfIZk/edit?usp=sharing&ouid=102737440051246418544&rtpof=true&sd=true),
-[Test Cases](https://docs.google.com/spreadsheets/d/1tRmffFVwMkwzR69gfZ2MNPRu9wdIMGta/edit?usp=drive_link&ouid=102737440051246418544&rtpof=true&sd=true), and [Bug Reports](https://docs.google.com/spreadsheets/d/180f4rPPsLncp5BGl_LVr1teRN3xltC2Z/edit?usp=sharing&ouid=102737440051246418544&rtpof=true&sd=true) with screenshots.
-
+• Requirements analysis: studied project requirements and specifications
+• Test planning: created detailed [Test Plans](https://docs.google.com/spreadsheets/d/1K7KlIUXoN2IewV5-ABJuDsxgoe0CfIZk/edit?usp=sharing&ouid=102737440051246418544&rtpof=true&sd=true)
+• Test design: wrote manual [Test Cases](https://docs.google.com/spreadsheets/d/1tRmffFVwMkwzR69gfZ2MNPRu9wdIMGta/edit?usp=drive_link&ouid=102737440051246418544&rtpof=true&sd=true)
+• API testing: created and executed API tests using Postman (before front-end availability)
+• Functional and cross-browser testing: verified features according to Test Cases
+• Used DevTools for network, cookies and TLS checks
+• Bug reporting: logged and tracked issues in Jira
+• Regression testing: re-tested fixes to make sure the application works correctly and remains stable
 
 **Tools & Technologies:**  
-Postman, Chrome DevTools, Jira, Google Sheets/Docs, Git/GitHub.
+Postman, Chrome DevTools, Jira, Google Sheets/Docs, Git/GitHub
 
-
-**Achievements:**
-
-- Identified and documented 20+ critical UI and API bugs, improving application stability.  
-- Developed a Software Test Plan adopted as a template for future projects.  
-- Streamlined API testing with reusable Postman collections, reducing testing time by 25%.
+**Achievements:** 
+Identified and documented 20+ critical UI and API bugs, developed a Software Test 
+Plan used as a template for future projects, streamlined API testing with reusable Postman 
+collections, reducing testing time by 25%
 
 
 ### PhoneBook (Web & Mobile Application - educational project)
